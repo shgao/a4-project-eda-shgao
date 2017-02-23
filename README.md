@@ -1,2 +1,2 @@
-# a4-starter
-Starter repository for a4-eda
+# a4-eda
+Starter repository for final project exploratory data analysis.
